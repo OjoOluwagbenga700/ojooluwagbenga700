@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gbenga Ojo-Samuel! <br/><a href="https://github.com/OjoOluwagbenga700">Cloud Engineer</a>, <a href="www.linkedin.com/in/samuel-ojo-oluwagbenga/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Gbenga Ojo-Samuel! <br/><a href="https://github.com/OjoOluwagbenga700">Cloud and Devops Engineer</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
