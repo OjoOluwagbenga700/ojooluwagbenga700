@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cloud  Projects:</h2>
 
-- <b>Game-Notification-System(Serverless)</b>
+- <b>Game-Notification-System(Terraform + Serverless)</b>
   - [AWS Lambda,AWS EventBridge & SNS](https://github.com/OjoOluwagbenga700/Game-Notification-System.git)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Full Stack Serverless inventory Management System (NodJS frontend, API Gateway, Lambda, and DynamoDB)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
