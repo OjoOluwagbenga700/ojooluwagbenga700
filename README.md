@@ -22,9 +22,13 @@ I specialize in building robust and scalable infrastructure on AWS, leveraging i
 - <b>Game-Notification-System(Terraform + Serverless)</b>
   - [AWS Lambda,AWS EventBridge & SNS](https://github.com/OjoOluwagbenga700/Game-Notification-System.git)
 - <b>Full Stack Serverless inventory Management System (NodeJS frontend, API Gateway, Lambda, and DynamoDB)</b>
-  - [serverless-inventory-management-system](https://github.com/OjoOluwagbenga700/serverless-inventory-management-system) 
+  - [serverless-inventory-management-system](https://github.com/OjoOluwagbenga700/serverless-inventory-management-system)
+- <b>Sports Data Backup (DynamoDB, ECS, AWS MediaConvert & EventBridge)</b>
+  - [sports-data-backup](https://github.com/OjoOluwagbenga700/sports-data-backup.git) 
+- <b>Containerized Sports API for Premier League Game Day Schedule (ECR, ECS, ALB, API Gateway & SERP API)</b>
+  - [containerized_sport_api](https://github.com/OjoOluwagbenga700/containerized_sport_api.git)
 
-
+    
 ### Certifications
 
 - [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/0aec1dd3-7162-4227-8066-5aa8e35a000e/public_url)
