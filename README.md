@@ -31,6 +31,7 @@ I specialize in building robust and scalable infrastructure on AWS, leveraging i
     
 ### Certifications
 
+- [Kubernetes and Cloud Native Associate](https://www.credly.com/badges/15c1999d-8339-48b2-99b3-b3ba0bd218c9/public_url) 
 - [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/0aec1dd3-7162-4227-8066-5aa8e35a000e/public_url)
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/ca2017f8-c753-43d4-abc2-5bfe8f592e83/public_url)
 - [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/e777c49e-f99a-4621-a7ae-4a55651ace71/public_url)
