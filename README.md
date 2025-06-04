@@ -27,7 +27,7 @@ I specialize in building robust and scalable infrastructure on AWS, leveraging i
   - [sports-data-backup](https://github.com/OjoOluwagbenga700/sports-data-backup.git) 
 - <b>Containerized Sports API for Premier League Game Day Schedule (ECR, ECS, ALB, API Gateway & SERP API)</b>
   - [containerized_sport_api](https://github.com/OjoOluwagbenga700/containerized_sport_api.git)
-- <b>E-commerce website on AWS ECS with a complete CI/CD pipeline /b>
+- <b>E-Commerce Website on AWS ECS With Complete CI/CD Pipeline /b>
   - [E-Commerce website CICD Pipeline](https://github.com/OjoOluwagbenga700/E-Commerce-CICD-with-ECS.git)
     
 ### Certifications
