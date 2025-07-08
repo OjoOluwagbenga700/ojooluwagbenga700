@@ -32,7 +32,9 @@ I specialize in building robust and scalable infrastructure on AWS, leveraging i
 - <b>Serverless_Cross_Region_Disaster_Recovery (AWS Lambda,DynamoDB,ApiGateway,ACM,Route53 and Frontend S3 static website)</b>
   - [Serverless_Cross_Region_Disaster_Recovery](https://github.com/OjoOluwagbenga700/Serverless_Cross_Region_Disaster_Recovery.git)
 - <b> Netflix clone App on EKS with Github Actions CICD (AWS EKS,Docker,Sonarqube,Trivy and Github Actions)</b>
-  - [Netflix-Clone-App-AWS-EKS](https://github.com/OjoOluwagbenga700/Netflix-Clone--aws-eks.git)  
+  - [Netflix-Clone-App-AWS-EKS](https://github.com/OjoOluwagbenga700/Netflix-Clone--aws-eks.git)
+- <b> Serverless aws cost monitoring with AWS lambda, AWS Budget and SNS</b>
+  - [AWS- Serverless-Cost-Monitoring](https://github.com/OjoOluwagbenga700/aws-cost-monitoring.git) 
     
 ### Certifications
 
